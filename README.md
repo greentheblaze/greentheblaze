@@ -4,7 +4,7 @@ I'm Green, a self-taught software developer. I spend most of my time working the
 
 I have a general passion for creating tools, products and services that aim to enhance the quality of life for end users, and I always look for long-term solutions to any obstacles I face. Consistent dedication to working has ultimately enabled me to land several positions of responsibility across various online communities and projects.
 
-One thing I can say to other aspiring developers is that the recipe to solving any problem out there is to always start off simple—don't straightaway dive into the deep end!
+One thing I can say to other aspiring developers is that the recipe to solving any problem out there is to **always** start off simple—don't straightaway dive into the deep end!
 
 Don't hesitate to reach out!
 
