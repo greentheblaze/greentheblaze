@@ -1,4 +1,4 @@
-# Hey there 👋
+## Hey there 👋
 
 I'm Green, a self-taught software developer. I spend most of my time working the engineering sides of software development, and I occasionally handle other development angles too, such as project management, art & design, and team development. I work across various digital sectors, including Information Technology and Web Development, but I'm predominantly involved in the Game Development field. Currently looking into Business Development and Digital Music Composition.
 
