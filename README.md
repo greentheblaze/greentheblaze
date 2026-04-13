@@ -1,26 +1,12 @@
-## Hey 👋
+# Hey there 👋
 
-I'm an aspiring software developer & business entrepreneur, that's always looking ahead to new and unique opportunities. Right now, I'm mostly working on game development projects in and around the Roblox platform; I am productive on other platforms as well.
+I'm Green, a self-taught software developer. I spend most of my time working the engineering sides of software development, and I occasionally handle other development angles too, such as project management, art & design, and team development. I work across various digital sectors, including Information Technology and Web Development, but I'm predominantly involved in the Game Development field. Currently looking into Business Development and Digital Music Composition.
 
-Here are the areas in software development I'm currently working in:
+I have a general passion for creating tools, products and services that aim to enhance the quality of life for end users, and I always look for long-term solutions to any obstacles I face. Consistent dedication to working has ultimately enabled me to land several positions of responsibility across various online communities and projects.
 
-* Video game development
-* Software engineering
-* Web development
-* DevOps engineering
-* Quality assurance engineering
-* Data analysis
-* Graphic design
-* Project management
-* Video editing
+One thing I can say to other aspiring developers is that the recipe to solving any problem out there is to always start off simple—don't straightaway dive into the deep end!
 
-I thrive best in is the game development field. Here are some notable disciplines that I am familiar with when it comes to making games:
-
-* Gameplay programming
-* Environment art
-* Game design
-
-I'm still trying to wrap my head around many of the latest technologies on the internet, as well as many interesting skills that you can learn online... like game music composition!
+Don't hesitate to reach out!
 
 <!--
 **greentheblaze/greentheblaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
